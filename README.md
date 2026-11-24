@@ -448,6 +448,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | --- | --- | --- | --- |
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 50% off | — | `BLACKFRIDAY26` |
 | [Appfigures](https://appfigures.com/platform/pricing) | 50% off · 12 months, up to $200 off per month | — | `BF2650` |
+| [ASO Atlas](https://asoatlas.com/) | 30% off · first year of the annual plan | $70.00 / year · first year | `BLACKWEEK30` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 20% off | $39.20 · report | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 50% off · first 6 months | — | — |
 | [BizPeel](https://bizpeel.com/pricing) | 50% off · first month; 20% off · first year | From $14.95 / month · Starter, first month | — |
